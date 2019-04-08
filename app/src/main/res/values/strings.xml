@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number Shapes</string>
+    <string name="is_number_a_square_or_triangular">Is number a square or triangular ?</string>
+    <string name="put_a_number">Put a number</string>
+    <string name="check">Check</string>
+    <string name="square">square</string>
+    <string name="triangle">triangle</string>
+</resources>
